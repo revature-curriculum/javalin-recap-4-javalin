@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<a href="/food">Food</a>
+
 
 </body>
 </html>
