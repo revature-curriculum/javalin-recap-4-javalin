@@ -1,7 +1,5 @@
-package src.main.java.objects;
+package objects;
 
 public class Exam {
 
-  
-    
 }
