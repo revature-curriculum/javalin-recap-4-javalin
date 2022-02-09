@@ -6,7 +6,7 @@
 </head>
 <body>
 
-
+  <a href="/exams">Exams</a>
 
 </body>
 </html>
