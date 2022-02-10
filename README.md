@@ -11,7 +11,7 @@ In this exercise, you will create a Javalin web application that will list Exam 
 3. In `src -> main -> jte -> index.jte` create a link to the route leading to exam.jte
 4. In `src -> main -> jte -> exam. jte`, create a for loop with an if statement checking the score of each exam and an associated print out.
 Remember to write the code the receive the arraylist parameter.
----
+
 ### Sample Output in HTML
 
 ```html
@@ -22,5 +22,5 @@ Remember to write the code the receive the arraylist parameter.
 <p>Nancy's score is 97, grade is A</p>
 
 <p>Ed's score is 50, grade is F</p>
+```
 
----
